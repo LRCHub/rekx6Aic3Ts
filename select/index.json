@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あめふら",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-12T04:20:59.115621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あめふら",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_あめふら_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Amefura [あめふら]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_Amefura_[あめふら]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あめふら",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_あめふら_サカナクション.txt"
+    }
+  ]
+}
